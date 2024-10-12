@@ -3,8 +3,6 @@
 
 **Department of Electrical and Computer Engineering**
 
-**Summer 2024**
-
 ## Adafruit Bluefruit LE UART Friend - Bluetooth Low Energy (BLE)
 The UART BLE driver interfaces with the following module:
 
