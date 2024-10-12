@@ -14,8 +14,8 @@
  *
  * The Adafruit BLE UART module uses the following pinout:
  *  - BLE UART MOD (Pin 1)  <-->  Tiva LaunchPad Pin PB7
- *  - BLE UART CTS (Pin 2)	<-->  Tiva LaunchPad Pin GND
- *  - BLE UART TXO (Pin 3) 	<-->  Tiva LaunchPad Pin PB0 (U1RX)
+ *  - BLE UART CTS (Pin 2)  <-->  Tiva LaunchPad Pin GND
+ *  - BLE UART TXO (Pin 3)  <-->  Tiva LaunchPad Pin PB0 (U1RX)
  *  - BLE UART RXI (Pin 4)  <-->  Tiva LaunchPad Pin PB1 (U1TX)
  *  - BLE UART VIN (Pin 5)  <-->  Tiva LaunchPad VCC (3.3V)
  *  - BLE UART RTS (Pin 6)  <-->  Not Connected

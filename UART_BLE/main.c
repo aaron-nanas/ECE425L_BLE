@@ -6,7 +6,7 @@
  * This file contains the main entry point and function definitions for the UART_BLE program.
  * 
  * The following modules are used:
- *  - UART0: Used to print the measured distance from the US-100 on the serial terminal
+ *  - UART0: Used to print characters on the serial terminal
  *  - UART1: Used to establish communication between the Tiva TM4C123G LaunchPad
  *           and an Adafruit BLE UART module
  *
